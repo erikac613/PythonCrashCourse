@@ -1,0 +1,4 @@
+In Python, you can make lists.
+In Python, you can store information in dictionaries.
+In Python, you can write functions.
+In Python, you can use classes to organize functions.
